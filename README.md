@@ -282,5 +282,5 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ---
 
 <p align="center">
-  <b>Built with ✋ and 🤚 — no mouse required.</b>
+  <b>Built with left ✋ and right 🤚 — no mouse required.</b>
 </p>
